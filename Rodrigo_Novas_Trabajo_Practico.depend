@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554320609 source:c:\users\rnovas002\desktop\pildoras txt\rodrigo_novas_trabajo_practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1554495562 c:\users\rnovas002\desktop\pildoras txt\rodrigo_novas_trabajo_practico\utn.h
+	<stdio.h>
+	<stdlib.h>
+
+1554492356 source:c:\users\rnovas002\desktop\pildoras txt\rodrigo_novas_trabajo_practico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
